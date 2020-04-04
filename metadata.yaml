@@ -1,0 +1,52 @@
+_repo: Grampa-in-Oz_61681
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Neill, John R. (John Rea)
+    alias: Neill, John Rea
+    birthdate: 1877
+    deathdate: 1943
+    gutenberg_agent_id: '26521'
+    url: http://www.gutenberg.org/2009/agents/26521
+    wikipedia: http://en.wikipedia.org/wiki/John_R._Neill
+  other_contributor:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Metcalf, Suzanne
+    - Fitzgerald, Capt. Hugh
+    - Cooke, John Estes
+    - Staunton, Schuyler
+    - Bancroft, Laura
+    - Van Dyne, Edith
+    - Fitzgerald, Hugh
+    - Baum, Lyman Frank
+    - Akers, Floyd
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+creator:
+  author:
+    agent_name: Thompson, Ruth Plumly
+    birthdate: 1893
+    deathdate: 1976
+    gutenberg_agent_id: '34661'
+    url: http://www.gutenberg.org/2009/agents/34661
+    wikipedia: https://en.wikipedia.org/wiki/Ruth_Plumly_Thompson
+description: ''
+gutenberg_issued: '2020-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61681'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction'
+- !lcc 'PZ'
+- !lcsh 'Oz (Imaginary place) -- Juvenile fiction'
+- GITenberg
+title: Grampa in Oz
+url: http://www.gutenberg.org/ebooks/61681
